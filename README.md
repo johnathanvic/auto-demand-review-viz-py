@@ -1,6 +1,6 @@
-# Automotive Demand Models: A Systematic Review of the State of the Literature
+# Automotive Demand Models: A Systematic Review with Implications for Sustainable Technologies, Policies, and Practice
 
-This repository contains the table of articles reviewed and the code used to create the plots for the paper "Automotive Demand Models: A Systematic Review of the State of the Literature".
+This repository contains the table of articles reviewed and the code used to create the plots for the paper "Automotive Demand Models: A Systematic Review with Implications for Sustainable Technologies, Policies, and Practice".
 
 ## Contents
 
